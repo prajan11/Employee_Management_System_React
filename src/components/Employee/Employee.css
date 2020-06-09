@@ -1,0 +1,30 @@
+.EmployeeFormContainer {
+  margin: auto;
+  border: 1px solid #4a6223;
+  width: 90%;
+  box-shadow: 0 5px 5px #4a6223;
+  margin-bottom: 50px;
+}
+
+.EmpHeadings {
+  padding: 5px;
+  border-bottom: 1px solid #4a6223;
+  background-color: #4a6223;
+  color: white;
+}
+
+.EmpFormSection {
+  padding: 30px;
+}
+
+.tableContainer {
+  margin: auto;
+  border: 1px solid #4a6223;
+  width: 90%;
+  box-shadow: 0 5px 5px #4a6223;
+  margin-bottom: 50px;
+}
+
+.EmpTableSection {
+  padding: 5px;
+}

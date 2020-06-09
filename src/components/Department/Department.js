@@ -19,7 +19,6 @@ class Department extends Component {
               <input
                 type="text"
                 className="form-control"
-                placeholder="Username"
                 placeholder="Enter department name"
               />
             </div>
@@ -32,7 +31,7 @@ class Department extends Component {
         </div>
         <div className="tableContainer">
           <div className="DepHeadings">
-            <h5>List of Departments</h5>
+            <h6>List of Departments</h6>
           </div>
           <div className="DepTableSection">
             <div className="input-group mb-3 mt-2 w-50">
