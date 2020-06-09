@@ -1,0 +1,32 @@
+.DepartmentFormContainer {
+  margin: auto;
+  border: 1px solid #775da0;
+  width: 90%;
+
+  box-shadow: 0 5px 5px #775da0;
+  margin-bottom: 50px;
+}
+
+.DepHeadings {
+  padding: 5px;
+  border-bottom: 1px solid #775da0;
+  background-color: #775da0;
+  color: white;
+}
+
+.DepFormSection {
+  padding: 30px;
+}
+
+.tableContainer {
+  margin: auto;
+  border: 1px solid #775da0;
+  width: 90%;
+
+  box-shadow: 0 5px 5px #775da0;
+  margin-bottom: 50px;
+}
+
+.DepTableSection {
+  padding: 5px;
+}
